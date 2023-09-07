@@ -9,20 +9,4 @@ Introduction: This project aims to develop a model for EEG patients data using d
 4. The image data obtained after data preprocessing needs to be saved in a folder. Due to the large amount of data, it cannot be uploaded. You need to handle and replace the file read path to ensure the model runs properly by yourself (Run the code of Data preprocessing). window_size = 25 represents data divided by 25s, and 30 represents data divided by 30s. In addition, some codes that save files locally also need comments or modifications.
 5. The complete codes of different models can be obtained on GitHub. Below are links to Colab, GitHub, Orignal Data. The implementation of the model also refers to official documents such as Scikit-learn, Keras, TensorFlow, and Python.
 
-
-Data-PreProcessing: https://colab.research.google.com/drive/1makBmdQ5NPcZURvK9vNuMMFsTg4n7yHB?usp=sharing
-
-TensorFlow: https://www.tensorflow.org/  
-
-Scikit-learn: https://scikit-learn.org/
-
-Keras: https://keras.io/api/   
-
-Python: https://docs.python.org/ 
-
-Orignal Data: https://repod.icm.edu.pl/dataset.xhtml?persistentId=doi:10.18150/repod.0107441 
-
-Colab:https://colab.research.google.com/drive/1tK7GLKp407YBkRXJru1QtZ-wWj8UxY5P?usp=sharing
-
-GitHub: https://github.com/785235914/Msc_Project/tree/Data-Science-with-Machine-Learning
-
+Please check the ReadMe file to get more information
