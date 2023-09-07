@@ -11,10 +11,18 @@ Introduction: This project aims to develop a model for EEG patients data using d
 
 
 Data-PreProcessing: https://colab.research.google.com/drive/1makBmdQ5NPcZURvK9vNuMMFsTg4n7yHB?usp=sharing
+
 TensorFlow: https://www.tensorflow.org/  
+
 Scikit-learn: https://scikit-learn.org/
+
 Keras: https://keras.io/api/   
+
 Python: https://docs.python.org/ 
-Orignal Data: https://repod.icm.edu.pl/dataset.xhtml?persistentId=doi:10.18150/repod.0107441 Colab:https://colab.research.google.com/drive/1tK7GLKp407YBkRXJru1QtZ-wWj8UxY5P?usp=sharing
+
+Orignal Data: https://repod.icm.edu.pl/dataset.xhtml?persistentId=doi:10.18150/repod.0107441 
+
+Colab:https://colab.research.google.com/drive/1tK7GLKp407YBkRXJru1QtZ-wWj8UxY5P?usp=sharing
+
 GitHub: https://github.com/785235914/Msc_Project/tree/Data-Science-with-Machine-Learning
 
